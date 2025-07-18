@@ -7,23 +7,24 @@ A comprehensive repository of cryptographic algorithms implemented from scratch 
 ## 📌 Currently Implemented
 
 ### 🔒 **Encryption Algorithms**
-- ✅ RSA (Public-Key Cryptosystem)
-- ✅ AES (Advanced Encryption Standard)
-  - AES-128
-  - AES-192
-  - AES-256
-- ✅ DES (Data Encryption Standard)
-- ✅ Diffie-Hellman Key Exchange
+- ✅ RSA (Public-Key Cryptosystem) [View](RSA)
+- ✅ AES (Advanced Encryption Standard) [View](AES-ALGORITHMS)
+  - AES-128 [View](AES-ALGORITHMS/AES_128bit.ipynb)
+  - AES-192 [View](AES-ALGORITHMS/AES_192bit.ipynb)
+  - AES-256 [View](AES-ALGORITHMS/AES_256bit.ipynb)
+- ✅ DES (Data Encryption Standard) [View](DES)
+- ✅ Diffie-Hellman Key Exchange [View](Diffie-Helman-Key-Exchange)
 
 ### 🧠 **Hashing Algorithms**
-- ✅ MD5
-- ✅ SHA-1
+- ✅ MD5 [View](MD-5)
+- ✅ SECURE HASHING ALGORITHMS [View](SHA-ALGORITHMS)
+- ✅ SHA-1 [View](SHA-ALGORITHMS/SHA-1.ipynb)
 - ✅ SHA-2 Family:
-  - SHA-224
-  - SHA-256
-  - SHA-384
-  - SHA-512
-  - SHA-512/t variants
+  - SHA-224 [View](SHA-ALGORITHMS/SHA-224.ipynb)
+  - SHA-256 [View](SHA-ALGORITHMS/SHA-256.ipynb)
+  - SHA-384 [View](SHA-ALGORITHMS/SHA-384.ipynb)
+  - SHA-512 [View](SHA-ALGORITHMS/SHA-512.ipynb)
+  - SHA-512/t variants [SHA-512/224](SHA-ALGORITHMS/SHA-512(t=224).ipynb) [SHA-512/256](SHA-ALGORITHMS/SHA-512(t=256).ipynb)
 
 ---
 
