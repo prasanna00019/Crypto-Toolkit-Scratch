@@ -25,12 +25,14 @@ A comprehensive repository of cryptographic algorithms implemented from scratch 
   - SHA-384 [View](SHA-ALGORITHMS/SHA-384.ipynb)
   - SHA-512 [View](SHA-ALGORITHMS/SHA-512.ipynb)
   - SHA-512/t variants [SHA-512/224](SHA-ALGORITHMS/SHA-512(t=224).ipynb) [SHA-512/256](SHA-ALGORITHMS/SHA-512(t=256).ipynb)
+- ✅SHA-3 Family:
+  - SHA-3 all variants [View](SHA-ALGORITHMS/SHA-3.ipynb)
+  - Keccak all variants [View](SHA-ALGORITHMS/SHA-3.ipynb)
+  - SHAKE all variants [View](SHA-ALGORITHMS/SHA-3.ipynb)
 
 ---
 
 ## 🚧 Work in Progress
-
-- 🔄 Currently working on **SHA-3** (Keccak-based)
 - 🧪 Will be adding more hashing and encryption algorithms in the future, including:
   - Whirlpool
   - Elliptic Curve Cryptography (ECC)
