@@ -29,7 +29,15 @@ A comprehensive repository of cryptographic algorithms implemented from scratch 
   - SHA-3 all variants [View](SHA-ALGORITHMS/SHA-3.ipynb)
   - Keccak all variants [View](SHA-ALGORITHMS/SHA-3.ipynb)
   - SHAKE all variants [View](SHA-ALGORITHMS/SHA-3.ipynb)
-
+- ✅ SHA-3-Derived-Functions
+  - [View all of them](SHA-3-Derived-Functions/SHA_3_Derived_Functions.ipynb)
+  - cSHAKE128/256 - Customizable SHAKE Functions
+  - KMAC128/256 - Keccak-based Message Authentication Code
+  - KMACXOF128/256 - KMAC with Extendable Output
+  - TupleHash128/256 - Hash Function for Tuple Data
+  - TupleHashXOF128/256 - TupleHash with Extendable Output
+  - ParallelHash128/256 - Parallel Hash Function
+  - ParallelHashXOF128/256 - ParallelHash with Extendable Output
 ---
 
 ## 🚧 Work in Progress
