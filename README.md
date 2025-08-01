@@ -16,7 +16,8 @@ A comprehensive repository of cryptographic algorithms implemented from scratch 
 - ✅ Diffie-Hellman Key Exchange [View](Diffie-Helman-Key-Exchange)
 
 ### 🧠 **Hashing Algorithms**
-- ✅ MD5 [View](MD-5)
+- ✅ MD5 [View](MD-5/MD5.ipynb)
+- ✅ MD4 [View](MD-4/MD4.ipynb)
 - ✅ SECURE HASHING ALGORITHMS [View](SHA-ALGORITHMS)
 - ✅ SHA-1 [View](SHA-ALGORITHMS/SHA-1.ipynb)
 - ✅ SHA-2 Family:
