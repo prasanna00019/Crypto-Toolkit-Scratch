@@ -18,6 +18,7 @@ A comprehensive repository of cryptographic algorithms implemented from scratch 
 ### 🧠 **Hashing Algorithms**
 - ✅ MD5 [View](MD-5/MD5.ipynb)
 - ✅ MD4 [View](MD-4/MD4.ipynb)
+- ✅ MD2 [View] (MD-2/MD2.ipynb)
 - ✅ SECURE HASHING ALGORITHMS [View](SHA-ALGORITHMS)
 - ✅ SHA-1 [View](SHA-ALGORITHMS/SHA-1.ipynb)
 - ✅ SHA-2 Family:
@@ -39,12 +40,14 @@ A comprehensive repository of cryptographic algorithms implemented from scratch 
   - TupleHashXOF128/256 - TupleHash with Extendable Output
   - ParallelHash128/256 - Parallel Hash Function
   - ParallelHashXOF128/256 - ParallelHash with Extendable Output
+- ✅ HMAC( Hash-based Message Authentication Code) [View](HMAC/HMAC.ipynb) 
 ---
 
 ## 🚧 Work in Progress
 - 🧪 Will be adding more hashing and encryption algorithms in the future, including:
-  - Whirlpool
+  - Whirlpool Hash
   - Elliptic Curve Cryptography (ECC)
+  - Blake Hash
   and many more as I research and experiment ... 
 ---
 
