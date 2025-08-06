@@ -1,6 +1,6 @@
 # 🔐 Crypto-Toolkit-Scratch
 
-A comprehensive repository of cryptographic algorithms implemented from scratch in Python. This project covers a wide range of encryption, decryption, and hashing techniques — ideal for educational and reference purposes.
+A comprehensive repository of cryptographic algorithms implemented from scratch in Python. This project covers a wide range of encryption, decryption, MAC and hashing techniques — ideal for educational and reference purposes.
 
 ---
 
@@ -16,9 +16,10 @@ A comprehensive repository of cryptographic algorithms implemented from scratch 
 - ✅ Diffie-Hellman Key Exchange [View](Diffie-Helman-Key-Exchange)
 
 ### 🧠 **Hashing Algorithms**
-- ✅ MD5 [View](MD-5/MD5.ipynb)
-- ✅ MD4 [View](MD-4/MD4.ipynb)
-- ✅ MD2 [View] (MD-2/MD2.ipynb)
+-✅ MD Family Hash Algorithms [View](MD_Hash_Functions)
+  -  MD5 [View](MD_Hash_Functions/MD5.ipynb)
+  -  MD4 [View](MD_Hash_Functions/MD4.ipynb)
+  -  MD2 [View](MD_Hash_Functions/MD2.ipynb)
 - ✅ SECURE HASHING ALGORITHMS [View](SHA-ALGORITHMS)
 - ✅ SHA-1 [View](SHA-ALGORITHMS/SHA-1.ipynb)
 - ✅ SHA-2 Family:
@@ -34,13 +35,21 @@ A comprehensive repository of cryptographic algorithms implemented from scratch 
 - ✅ SHA-3-Derived-Functions
   - [View all of them](SHA-3-Derived-Functions/SHA_3_Derived_Functions.ipynb)
   - cSHAKE128/256 - Customizable SHAKE Functions
-  - KMAC128/256 - Keccak-based Message Authentication Code
-  - KMACXOF128/256 - KMAC with Extendable Output
   - TupleHash128/256 - Hash Function for Tuple Data
   - TupleHashXOF128/256 - TupleHash with Extendable Output
   - ParallelHash128/256 - Parallel Hash Function
   - ParallelHashXOF128/256 - ParallelHash with Extendable Output
-- ✅ HMAC( Hash-based Message Authentication Code) [View](HMAC/HMAC.ipynb) 
+- ✅ RIPEMD Hash Family [View](RIPEMD)
+  - RIPEMD 128 [View](RIPEMD/RIPEMD-128.ipynb)
+  - RIPEMD 256 [View](RIPEMD/RIPEMD-256.ipynb)
+  - RIPEMD 320 [View](RIPEMD/RIPEMD-320.ipynb)
+  - RIPEMD 160 [View](RIPEMD/RIPEMD-160.ipynb)  
+
+### 🛡️ **Message Authentication Codes (MACs)**
+- ✅ HMAC (Hash-based Message Authentication Code) [View](HMAC/HMAC.ipynb)
+- ✅  KMAC128/256 - Keccak-based Message Authentication Code [View](SHA-3-Derived-Functions/SHA_3_Derived_Functions.ipynb)
+- ✅ KMACXOF128/256 - KMAC with Extendable Output [View](SHA-3-Derived-Functions/SHA_3_Derived_Functions.ipynb)
+
 ---
 
 ## 🚧 Work in Progress
