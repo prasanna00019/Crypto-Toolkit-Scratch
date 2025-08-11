@@ -13,7 +13,6 @@ A comprehensive repository of cryptographic algorithms implemented from scratch 
   - AES-192 [View](AES-ALGORITHMS/AES_192bit.ipynb)
   - AES-256 [View](AES-ALGORITHMS/AES_256bit.ipynb)
 - ✅ DES (Data Encryption Standard) [View](DES)
-- ✅ Diffie-Hellman Key Exchange [View](Diffie-Helman-Key-Exchange)
 
 ### 🧠 **Hashing Algorithms**
 -✅ MD Family Hash Algorithms [View](MD_Hash_Functions)
@@ -44,11 +43,15 @@ A comprehensive repository of cryptographic algorithms implemented from scratch 
   - RIPEMD 256 [View](RIPEMD/RIPEMD-256.ipynb)
   - RIPEMD 320 [View](RIPEMD/RIPEMD-320.ipynb)
   - RIPEMD 160 [View](RIPEMD/RIPEMD-160.ipynb)  
+- ✅ Tiger-192 Hash Algorithm [View](Tiger_Hash/Tiger_192.ipynb)  
 
 ### 🛡️ **Message Authentication Codes (MACs)**
 - ✅ HMAC (Hash-based Message Authentication Code) [View](HMAC/HMAC.ipynb)
 - ✅  KMAC128/256 - Keccak-based Message Authentication Code [View](SHA-3-Derived-Functions/SHA_3_Derived_Functions.ipynb)
 - ✅ KMACXOF128/256 - KMAC with Extendable Output [View](SHA-3-Derived-Functions/SHA_3_Derived_Functions.ipynb)
+
+### **Key Exchange Algorithms**
+- ✅ Diffie-Hellman Key Exchange [View](Diffie-Helman-Key-Exchange)
 
 ---
 
