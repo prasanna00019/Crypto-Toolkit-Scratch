@@ -44,6 +44,7 @@ A comprehensive repository of cryptographic algorithms implemented from scratch 
   - RIPEMD 320 [View](RIPEMD/RIPEMD-320.ipynb)
   - RIPEMD 160 [View](RIPEMD/RIPEMD-160.ipynb)  
 - ✅ Tiger-192 Hash Algorithm [View](Tiger_Hash/Tiger_192.ipynb)  
+- ✅ TurboShake Hash [View](TurboShake_Hash/TurboShake_Hash.ipynb)
 
 ### 🛡️ **Message Authentication Codes (MACs)**
 - ✅ HMAC (Hash-based Message Authentication Code) [View](HMAC/HMAC.ipynb)
