@@ -48,11 +48,18 @@ A comprehensive repository of cryptographic algorithms implemented from scratch 
 
 ### 🛡️ **Message Authentication Codes (MACs)**
 - ✅ HMAC (Hash-based Message Authentication Code) [View](HMAC/HMAC.ipynb)
-- ✅  KMAC128/256 - Keccak-based Message Authentication Code [View](SHA-3-Derived-Functions/SHA_3_Derived_Functions.ipynb)
+- ✅ KMAC128/256 - Keccak-based Message Authentication Code [View](SHA-3-Derived-Functions/SHA_3_Derived_Functions.ipynb)
 - ✅ KMACXOF128/256 - KMAC with Extendable Output [View](SHA-3-Derived-Functions/SHA_3_Derived_Functions.ipynb)
 
 ### **Key Exchange Algorithms**
 - ✅ Diffie-Hellman Key Exchange [View](Diffie-Helman-Key-Exchange)
+
+## **Digital Signatures**
+- ✅ Elgamal Digital Signature [View](Digital_Signatures/ELGAMAL_DIGITAL_SIGN.ipynb)
+- ✅ Schnorr Digital Signature [View](Digital_Signatures/SCHNORR_DIGITAL_SIGN.ipynb)
+
+### **Lightweight Cryptography**
+- ✅ Ascon AEAD Encryption & Decryption [View](ASCON_Family/Ascon_Encryption_Decryption.ipynb)
 
 ---
 
