@@ -61,6 +61,8 @@ A comprehensive repository of cryptographic algorithms implemented from scratch 
 ### **Lightweight Cryptography**
 - ✅ Ascon AEAD Encryption & Decryption [View](ASCON_Family/Ascon_Encryption_Decryption.ipynb)
 - ✅ Ascon Hash Functions(Ascon-Hash256, Ascon-XOF128, Ascon-CXOF128) [View](ASCON_Family/ASCON_Hash.ipynb)
+- ✅ Photon AEAD Encryption & Decryption [View](Photon_Family/PHOTON_Encryption_Decryption.ipynb)
+- ✅ Photon Hash 256 [view](Photon_Family/PHOTON_Hash.ipynb)
 
 ---
 
